@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaiwanApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af256271e4cc81629ecc2acfb96513b78245a96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5268b91766eb5989af1801ba2a579bad2cde7514")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaiwanApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaiwanApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
