@@ -1,1 +1,0 @@
-printf("this is a file called python_script_1.pty")
