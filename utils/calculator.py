@@ -10,3 +10,6 @@ def add_nms(a,b):
 
 def substract_nums(a,b):
     return a-b
+
+def multiply_nums(a,b):
+    return a*b
