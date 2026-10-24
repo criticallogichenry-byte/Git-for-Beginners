@@ -1,4 +1,5 @@
 def add_nums(a, b):
+    """Returns the sum of a and b. """
     return a + b
 
     def devide_nums(a, b):
